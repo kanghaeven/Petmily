@@ -1,6 +1,5 @@
 # 🐕 **펫밀리(PETMILY) :: 반려동물과 함께하는 SNS & CURATION SERVICE**
 
-![PETMILY BANNER](/uploads/1a484c70bb9dbb89a3adb2cc46023110/Group_633.png)
 
 ## 📢 **프로젝트 진행 기간**
 <hr/>
@@ -373,7 +372,8 @@
 ---
  
 
-|![민수](/uploads/e01b78fc6b629d92e9c879edb845bd34/___️_240_x_240_.png)|![해빈](/uploads/c8c8cf5510a50a2c9987a337ad6ea612/__120_x_120_.png)|![민균](/uploads/c6518b007e9311a4ba47c7d4d3f90d8d/__120_x_120_.png)|![용우](/uploads/5466491689227d859465386eba9bf988/__120_x_120_.png)|![혜진](/uploads/b2c567b6e62bb56287edf5ec11b1b840/__120_x_120_.png)|![동혁](/uploads/633f0769aa068a0659976eeec160cdf0/__120_x_120_.png)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
 |여민수|강해빈|손민균|정용우|조혜진|하동혁|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
